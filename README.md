@@ -1,2 +1,5 @@
+Oricha Emmanuel
 # orichaemmanuel
-HNG TASK
+orichlord@gmail.com
+mobile
+kotlin
