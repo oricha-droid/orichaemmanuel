@@ -1,5 +1,5 @@
-Oricha Emmanuel
-# orichaemmanuel
+Name: Oricha Emmanuel
+slack username:  orichaemmanuel
 orichlord@gmail.com
-mobile
-kotlin
+track: mobile
+courses: kotlin
